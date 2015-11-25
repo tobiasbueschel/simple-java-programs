@@ -18,7 +18,7 @@ import java.util.Scanner;
  *
  */
 
-public class Exercise4_ByteConversion {
+public class ByteConversion {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
