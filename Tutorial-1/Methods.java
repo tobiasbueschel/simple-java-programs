@@ -17,7 +17,7 @@ import java.util.Scanner;
  *
  */
 
-public class Exercise2_Methods {
+public class Methods {
 
 	public static void main(String[] args) {
 
