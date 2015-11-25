@@ -14,7 +14,7 @@
  *
  */
 
-public class Exercise1_Types {
+public class Types {
 
 	public static void main(String[] args) {
 		System.out.println("Here are the differences between primitive types");
