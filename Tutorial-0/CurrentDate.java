@@ -12,7 +12,7 @@ import java.util.Date;
  *
  */
 
-public class ExerciseTwo {
+public class CurrentDate {
 
 	public static void main(String[] args) {
 
