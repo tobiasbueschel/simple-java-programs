@@ -1,5 +1,7 @@
 # simple-java-programs
 
+## Project Structure
+
 ````
 ├── CountLines.java
 ├── LICENSE
