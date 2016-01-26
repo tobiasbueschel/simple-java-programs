@@ -1,5 +1,7 @@
 # simple-java-programs
 
+A collection of simple Java programs.
+
 ## Project Structure
 
 ````
