@@ -53,5 +53,3 @@ A collection of simple Java programs.
         └── Xml.java
 ```
 
-$ cat .gitattributes
-*.rb linguist-language=Java
