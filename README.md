@@ -52,3 +52,6 @@ A collection of simple Java programs.
         ├── SimpleErrorHandler.java
         └── Xml.java
 ```
+
+$ cat .gitattributes
+*.rb linguist-language=Java
