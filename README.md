@@ -1,4 +1,4 @@
-# simple-java-programs
+# Simple Java Programs
 
 A collection of simple Java programs.
 
