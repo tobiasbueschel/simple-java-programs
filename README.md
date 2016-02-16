@@ -1,6 +1,6 @@
 # Simple Java Programs
 
-A collection of simple Java programs.
+A collection of Java programs.
 
 ## Project Structure
 
