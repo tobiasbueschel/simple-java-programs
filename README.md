@@ -4,7 +4,7 @@ A collection of Java programs.
 
 ## Project Structure
 
-````
+```
 ├── CountLines.java
 ├── LICENSE
 ├── README.md
