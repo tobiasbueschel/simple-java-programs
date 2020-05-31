@@ -16,7 +16,7 @@ $ java tutorial_0/CurrentDate
 
 Alternatively, you can use an IDE such as [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
-:warning: Please not that this repository does not ship with any dependencies, hence, if you see an import statement such as: `import javax.swing.JPanel;`, then you need to make sure you have the jar file of this dependency loaded into your classpath before starting the program.
+:warning: Please note that this repository does not ship with any dependencies, hence, if you see an import statement such as: `import javax.swing.JPanel;`, then you need to make sure you have the jar file of this dependency loaded into your classpath before starting the program.
 
 ## Project Structure
 
